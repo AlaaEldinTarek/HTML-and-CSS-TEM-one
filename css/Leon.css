@@ -90,7 +90,12 @@ body {
 
     }
 }
+@media (min-width: 1200px) and (max-width:1400px) {
+    .container {
+        width: 1024px;
 
+    }
+}
 
 
 /* End Global Rules */
