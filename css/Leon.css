@@ -91,12 +91,7 @@ body {
     }
 }
 
-@media  (max-width:1400px) {
-    .container {
-        width: 1400;
 
-    }
-}
 
 /* End Global Rules */
 
